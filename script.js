@@ -108,19 +108,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const names = [
-    "crimson",
-    "crimson?",
-    "goldentrophy",
-    "iidk",
-    "crimsoncauldron",
-    "crimsoncc",
-    "goldentrophii",
-    "aa_goldentrophy",
-    "aa_crimsoncauldron",
-    "iiwashere",
-    "herewasii",
-    "kdii",
-    "grayson"
+    "Playfull_Dev",
+    "Digital PXL",
+    "DP_Playfull",
+    "DP_Playfull_Dev",
+    "jake"
+
   ];
   let name = names[Math.floor(Math.random() * names.length)];
   let nameText = '';
